@@ -7,6 +7,7 @@
     --size-16 : 16px;
     --size-14: 14px;
     --size-12: 12px;
+    --input-text-color : #1d1e33;
 }
 .app{
     min-height: 100vh;
@@ -65,33 +66,3 @@ input{
     font-size: 26px;
     color: var(--light-blue);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
