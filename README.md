@@ -1,18 +1,19 @@
-# Salesforce DX Project: Next Steps
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+# BMI Calculator
 
-## How Do You Plan to Deploy Your Changes?
+An easy to use BMI Calculator app developed using Salesforce LWC and hosted using Salesforce Experience
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
-## Configure Your Salesforce DX Project
+## Tech Stack
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+**Client:** Salesforce Lightning Web Components
 
-## Read All About It
+**Server:** Salesforce, Salesforce Community, Lightning Web Runtime
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+
+## Screenshots
+
+![App Screenshot](https://github.com/Mehul-Suryavanshi/bmi-calculator/blob/e4393b77508b0aff9d8b54ac861d4e34147d2b60/documentation/DemoImage1.png?raw=true) 
+
+
+![App Screenshot1](https://github.com/Mehul-Suryavanshi/bmi-calculator/blob/e4393b77508b0aff9d8b54ac861d4e34147d2b60/documentation/DemoImage2.png?raw=true)
