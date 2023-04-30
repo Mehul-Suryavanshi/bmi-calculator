@@ -4,6 +4,19 @@
 			<h1>BMI Calculator</h1>
 
 			<form>
+				<div class="slds-form-element slds-m-bottom_medium">
+					<label class="slds-form-element__label" for="inpt-height">Height(cm)</label>
+					<div class="slds-form-element__control">
+						<input type="number" id="inpt-height" placeholder="Enter you height in cm" required min="0" max="250" class="slds-input" />
+					</div>
+				</div>
+				<div class="slds-form-element slds-m-bottom_medium">
+					<label class="slds-form-element__label" for="form-element-03">Weight(kg)</label>
+					<div class="slds-form-element__control">
+						<input type="number" id="inpt-weight" placeholder="Enter you weight in kg" required min="0" max="1000" class="slds-input" />
+					</div>
+				</div>
+				<button class="slds-button slds-button_neutral slds-button_stretch btn">Calculate</button>
 			</form>
 
 			<div class="info-wrapper">
